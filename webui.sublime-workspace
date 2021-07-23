@@ -1,0 +1,325 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tak",
+				"take_subsection_details"
+			],
+			[
+				"ta",
+				"take_section_details"
+			],
+			[
+				"take",
+				"take_chapter_details"
+			],
+			[
+				"sub",
+				"subsection_count"
+			],
+			[
+				"s",
+				"subsection_count"
+			],
+			[
+				"cha",
+				"chapter_count"
+			],
+			[
+				"sec",
+				"section_count"
+			],
+			[
+				"ch",
+				"chapter_count"
+			],
+			[
+				"stud",
+				"student_info"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"ba",
+				"balance_whole_tree"
+			],
+			[
+				"update",
+				"Update"
+			],
+			[
+				"get",
+				"getword"
+			],
+			[
+				"se",
+				"Search"
+			],
+			[
+				"disp",
+				"display2"
+			],
+			[
+				"temp",
+				"tempd"
+			],
+			[
+				"upda",
+				"update_bf"
+			],
+			[
+				"up",
+				"update_bf"
+			],
+			[
+				"Fin",
+				"FindMin"
+			],
+			[
+				"ge",
+				"getnewnode"
+			],
+			[
+				"ins",
+				"insert"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"str",
+				"strcpy"
+			],
+			[
+				"fin",
+				"find_value"
+			],
+			[
+				"main",
+				"main_word"
+			],
+			[
+				"fn",
+				"find_value"
+			],
+			[
+				"N",
+				"n"
+			],
+			[
+				"de",
+				"delete"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Nikhil Jadha/Google Drive/bresenham.cpp",
+		"/C/Users/Nikhil Jadha/Documents/cg practicals/Hil.java",
+		"/C/Users/Nikhil Jadha/Documents/cg practicals/scnln.cpp",
+		"/C/Users/Nikhil Jadha/Documents/spflood.cpp",
+		"/C/Users/Nikhil Jadha/Documents/cg practicals/scanline1 - Copy/scanline1.h",
+		"/C/Users/Nikhil Jadha/Documents/cg practicals/scanline1/scanline1.cpp",
+		"/C/Users/Nikhil Jadha/Documents/money.cpp",
+		"/D/Real Mac/macOS 10.12.vmx",
+		"/D/MICROPROCESSOR/Final_MAL/ASSIGNMENT_9/factorial.asm",
+		"/C/Users/Nikhil Jadha/Documents/cg practicals/lineusing pixel class/pixel.cpp",
+		"/C/Users/Nikhil Jadha/Documents/cg practicals/lineusing pixel class/pixel.h",
+		"/C/Users/Nikhil Jadha/Documents/cg practicals/lineusing pixel class/linealgo.h",
+		"/C/Users/Nikhil Jadha/shellsort.java",
+		"/C/Users/Nikhil Jadha/studentinfo.cpp",
+		"/C/Users/Nikhil Jadha/gtree.cpp",
+		"/C/Users/Nikhil Jadha/Downloads/job-nikhil.cpp",
+		"/C/Users/Nikhil Jadha/Documents/wrong.cpp",
+		"/C/Users/Nikhil Jadha/Documents/ads practical/ads1.cpp",
+		"/D/test.cpp",
+		"/D/2120/line.cpp",
+		"/D/2120/calculator.cpp",
+		"/D/2120/filehandling.cpp",
+		"/C/Users/Nikhil Jadha/Desktop/bresenham.cpp",
+		"/C/Users/Nikhil Jadha/Documents/cg practicals/scanline1 - Copy/scanline1.cpp",
+		"/C/Users/Nikhil Jadha/Documents/cg practicals/VehicalOpenGL.cpp",
+		"/C/Users/Nikhil Jadha/Documents/cg practicals/opengl.c",
+		"/G/bresenham.cpp",
+		"/C/Users/Nikhil Jadha/AppData/Local/Packages/microsoft.windowscommunicationsapps_8wekyb3d8bbwe/LocalState/Files/S0/301/bresenham[2305843009213829385].cpp",
+		"/C/Users/Nikhil Jadha/Desktop/Final MP Experiments/Exp 1/pos.asm",
+		"/C/Users/Nikhil Jadha/avl.cpp",
+		"/C/Users/Nikhil Jadha/Documents/cg practicals/lineusing pixel class/linealgo.cpp",
+		"/C/Users/Nikhil Jadha/Desktop/ass4b.asm",
+		"/G/ASSIGNMENT_4/ADD&SHIFT/ass4b.asm",
+		"/F/ads3using list.cpp",
+		"/C/Users/Nikhil Jadha/2.cpp",
+		"/C/Users/Nikhil Jadha/Documents/ads practical/referenceavl.cpp",
+		"/C/Users/Nikhil Jadha/Documents/ads practical/ads8.cpp",
+		"/C/Users/Nikhil Jadha/Documents/ads practical/ads7.cpp",
+		"/C/Users/Nikhil Jadha/Documents/ads practical/ads10.cpp",
+		"/C/Users/Nikhil Jadha/Documents/ads practical/ads9.cpp",
+		"/C/Users/Nikhil Jadha/Documents/hello.cpp",
+		"/C/Users/Nikhil Jadha/Documents/ads practical/ads6.cpp",
+		"/C/Users/Nikhil Jadha/test.cpp",
+		"/C/Users/Nikhil Jadha/Desktop/New Doc 2017-04-05 (3).pdf",
+		"/C/Users/Nikhil Jadha/Desktop/Maths III - Assignment No. 6.pdf"
+	],
+	"find":
+	{
+		"height": 111.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 111.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "webui.sublime-project",
+	"replace":
+	{
+		"height": 212.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 375.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
